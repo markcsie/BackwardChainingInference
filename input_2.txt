@@ -1,0 +1,6 @@
+1
+F(B,A) 
+3
+G(x,y) => F(y,x)
+F(S,SS) => G(x,y)
+G(SS,S)  
